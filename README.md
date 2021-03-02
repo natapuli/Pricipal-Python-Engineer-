@@ -15,9 +15,15 @@ You may have worked abroad in international companies, led engineering teams and
 
 REQUIREMENTS
 5+ years of web engineering experience at strong software companies
+
 Experience with building and operating a modern REST API (ie. Swagger, monitoring, rate limiting, authentication, etc.)
+
 A solid understanding of relational databases (Beeswax uses Amazon Aurora MySQL)
+
 A solid understanding of modern operational processes and concerns for web applications (deployment, provisioning, monitoring)
+
 A solid understanding of Django Rest Framework
+
 A strong grasp of software architecture (from classes or self-learning)
+
 An appreciation (or tolerance of) bee puns
