@@ -22,6 +22,7 @@ You teach others, take ownership, drive results and take pride in your work, and
 You may have worked abroad in international companies, led engineering teams and are looking for a place where you can be empowered to deliver real results at extremely high scale
 
 REQUIREMENTS
+
 5+ years of web engineering experience at strong software companies
 
 Experience with building and operating a modern REST API (ie. Swagger, monitoring, rate limiting, authentication, etc.)
@@ -35,3 +36,5 @@ A solid understanding of Django Rest Framework
 A strong grasp of software architecture (from classes or self-learning)
 
 An appreciation (or tolerance of) bee puns
+
+https://career.sigma.software/vacancy/web-api-principal-engineer-python-django/ 
